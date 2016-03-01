@@ -45,14 +45,12 @@
             </ul>
 
           <div class="col-sm-3 col-md-3" style="margin-top: 9px;">
-            <div class="nav navbar-nav">
               <div class="input-group">
                   <input type="text" class="form-control" placeholder="Email" name="newsletter" id="newsletter">
                   <div class="input-group-btn">
                       <button class="btn btn-default" type="submit">S'abonner newsletter</button>
                   </div>
               </div>
-            </div>
           </div>
           
           <div class="col-sm-3 col-md-3 pull-right">
